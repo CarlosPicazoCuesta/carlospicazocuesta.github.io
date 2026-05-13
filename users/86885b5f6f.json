@@ -1,0 +1,160 @@
+{
+  "hash": "c56180c91d8d0efe0e7ddc9851e34b30818a41e4c31ea7d98d315486885b5f6f",
+  "miniHash": "86885b5f6f",
+  "id": "000004",
+  "name": "Mario Bercial Martin",
+  "email": null,
+  "phone": null,
+  "address": "Villanueva del Pardillo, Madrid, España. CP. 28229",
+  "language": "ES_es",
+  "nationality": "ES",
+  "bloodType": "A+",
+  "Passport": "000000000",
+  "emergencyContacts": [
+    {
+      "name": "Adolfo Martin",
+      "phone": "...",
+      "email": "..."
+    },
+    {
+      "name": "María Bercial",
+      "phone": "...",
+      "email": "..."
+    }
+  ],
+  "info": {
+    "es": {
+      "allergies": [
+        "frutos secos",
+        "huevo"
+      ],
+      "medications": [
+        "ninguna"
+      ],
+      "medicalConditions": [
+        "autismo",
+        "sordera"
+      ],
+      "vaccines": [
+        "ninguna"
+      ],
+      "comments": [
+        "ninguna"
+      ]
+    },
+    "en": {
+      "allergies": [
+        "none"
+      ],
+      "medications": [
+        "none"
+      ],
+      "medicalConditions": [
+        "none"
+      ],
+      "vaccines": [
+        "none"
+      ],
+      "comments": [
+        "none"
+      ]
+    },
+    "it": {
+      "allergies": [
+        "none"
+      ],
+      "medications": [
+        "none"
+      ],
+      "medicalConditions": [
+        "none"
+      ],
+      "vaccines": [
+        "none"
+      ],
+      "comments": [
+        "none"
+      ]
+    }
+  },
+  "medicalInsurance": {
+    "es": [
+      {
+        "label": "Compañía",
+        "value": "Sanitas"
+      },
+      {
+        "label": "Póliza",
+        "value": "123456789"
+      },
+      {
+        "label": "Teléfono",
+        "value": "+34912345678"
+      },
+      {
+        "label": "Teléfono internacional",
+        "value": "+34912345678"
+      }
+    ],
+    "en": [
+      {
+        "label": "Company",
+        "value": "Sanitas"
+      },
+      {
+        "label": "Policy",
+        "value": "123456789"
+      },
+      {
+        "label": "Phone",
+        "value": "+34912345678"
+      },
+      {
+        "label": "International phone",
+        "value": "+34912345678"
+      }
+    ],
+    "it": [
+      {
+        "label": "Company",
+        "value": "Sanitas"
+      },
+      {
+        "label": "Policy",
+        "value": "123456789"
+      },
+      {
+        "label": "Phone",
+        "value": "+34912345678"
+      },
+      {
+        "label": "International phone",
+        "value": "+34912345678"
+      }
+    ]
+  },
+  "preferentContact": [
+    {
+      "icon": "phone",
+      "type": "phone",
+      "value": "..."
+    },
+    {
+      "icon": "mail",
+      "type": "email",
+      "value": "..."
+    }
+  ],
+  "otros": {
+    "icon": "telegram",
+    "type": "link",
+    "value": "https://t.me/pikazetas"
+  },
+  "meta": {
+    "langs": [
+      "es",
+      "en",
+      "it"
+    ]
+  }
+}
