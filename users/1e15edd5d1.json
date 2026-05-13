@@ -8,32 +8,30 @@
   "address": "Villanueva del Pardillo, Madrid, España. CP. 28229",
   "language": "ES_es",
   "nationality": "ES",
-  "bloodType": "A+",
+  "bloodType": "undefined",
   "Passport": "000000000",
   "emergencyContacts": [
     {
       "name": "Leire Carballés",
-      "phone": "...",
+      "phone": "0034635590863",
       "email": "..."
     },
     {
       "name": "Joaquín Olmedo",
-      "phone": "...",
+      "phone": "0034691405090",
       "email": "..."
     }
   ],
   "info": {
     "es": {
       "allergies": [
-        "frutos secos",
-        "huevo"
+        "ninguna"
       ],
       "medications": [
         "ninguna"
       ],
       "medicalConditions": [
-        "autismo",
-        "sordera"
+        "ninguna"
       ],
       "vaccines": [
         "ninguna"
@@ -75,6 +73,23 @@
       "comments": [
         "none"
       ]
+    },
+    "fr": {
+      "allergies": [
+        "none"
+      ],
+      "medications": [
+        "none"
+      ],
+      "medicalConditions": [
+        "none"
+      ],
+      "vaccines": [
+        "none"
+      ],
+      "comments": [
+        "none"
+      ]
     }
   },
   "medicalInsurance": {
@@ -85,7 +100,7 @@
       },
       {
         "label": "Póliza",
-        "value": "123456789"
+        "value": "demo123456789"
       },
       {
         "label": "Teléfono",
@@ -103,7 +118,7 @@
       },
       {
         "label": "Policy",
-        "value": "123456789"
+        "value": "demo123456789"
       },
       {
         "label": "Phone",
@@ -131,18 +146,36 @@
         "label": "International phone",
         "value": "+34912345678"
       }
+    ],
+    "fr": [
+      {
+        "label": "Company",
+        "value": "Sanitas"
+      },
+      {
+        "label": "Policy",
+        "value": "demo123456789"
+      },
+      {
+        "label": "Phone",
+        "value": "+34912345678"
+      },
+      {
+        "label": "International phone",
+        "value": "+34912345678"
+      }
     ]
   },
   "preferentContact": [
     {
       "icon": "phone",
       "type": "phone",
-      "value": "..."
+      "value": "0034635590863"
     },
     {
-      "icon": "mail",
-      "type": "email",
-      "value": "..."
+      "icon": "phone",
+      "type": "phone",
+      "value": "0034691405090"
     }
   ],
   "otros": {
@@ -154,7 +187,8 @@
     "langs": [
       "es",
       "en",
-      "it"
+      "it",
+      "fr"
     ]
   }
 }
